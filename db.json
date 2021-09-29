@@ -1,0 +1,58 @@
+{
+  "Herois": [
+    {
+      "id": 1,
+      "Nome": "ALL Maight",
+      "Anime": "Boku No Hero",
+      "Caracteristica": "O heroi mais forte do anime e professor do protagonista"
+    },
+    {
+      "id": 2,
+      "Nome": "Zoro",
+      "Anime": "One Piece",
+      "Caracteristica": "O Braço direito do Protagonista, tambem o proximo maior espadachin"
+    },
+    {
+      "id": 3,
+      "Nome": "Edward Elric",
+      "Anime": "Fullmetal Alchemist",
+      "Caracteristica": "Protagonista do anime"
+    },
+    {
+      "id": 4,
+      "Nome": "Barba Branca",
+      "Anime": "One Piece",
+      "Caracteristica": "Até uma parte do anime era o capitão do bando mais forte do anime"
+    },
+    {
+      "id": 5,
+      "Nome": "Shikamaru",
+      "Anime": "Naruto",
+      "Caracteristica": "Um dos coadilvantis mais inteligentes estrategicamente do anime"
+    },
+    {
+      "Nome": "Killua",
+      "Anime": "Hunter Hunter",
+      "Caracteristica": "Melhor amigo do protagonista e um assasino mortal",
+      "id": 6
+    }
+  ],
+  "AnimesRelacionados": [
+    {
+      "Id": 1,
+      "Nome": "Naruto"
+    },
+    {
+      "Id": 2,
+      "Nome": "One Piece"
+    },
+    {
+      "Id": 3,
+      "Nome": "Boku No Hero"
+    },
+    {
+      "Id": 4,
+      "Nome": "Fullmetal Alchemist"
+    }
+  ]
+}

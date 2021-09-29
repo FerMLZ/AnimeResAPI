@@ -1,0 +1,21 @@
+{
+  "name": "AnimeResAPI",
+  "version": "1.0.0",
+  "description": "Uma API de personagens de anime",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FerMLZ/AnimeResAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FerMLZ/AnimeResAPI/issues"
+  },
+  "homepage": "https://github.com/FerMLZ/AnimeResAPI#readme"
+}
